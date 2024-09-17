@@ -31,7 +31,7 @@ SET quantity = quantity + 10
 WHERE id = 5;
 
 
-Удалить товар с id = 7:
+--Удалить товар с id = 7:
 DELETE FROM product
 WHERE id = 7;
 
